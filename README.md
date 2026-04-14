@@ -8,3 +8,8 @@ A MATLAB tool for analysing real F1 telemetry data using the FastF1 Python Libra
 Data is pulled from official F1 timing systems and exported to CSV, then visualised in MATLAB
 
 Channels analysed: speed, throttle, brake
+
+![Speed vs Distance](Speed_vs_Distance.png)
+![Track Speed Heatmap](Track_Speed_Heatmap.png)
+![Throttle Application](Throttle_Application.png)
+![Brake Application](Brake_Application.png)
